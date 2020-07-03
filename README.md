@@ -20,4 +20,5 @@ To run the app, clone it into your command line, and then enter `index node.js`.
 Good Luck!
 
 ### Project Spec and rubric can be found here:
+
 https://frontend.turing.io/projects/flash-cards.html
