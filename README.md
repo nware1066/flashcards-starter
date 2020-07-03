@@ -12,8 +12,8 @@ The app allows a user to take a quiz on a given subject (JavaScript prototypes i
 ### Here is what the app looks like in action:
 
 
-![image of form page](/README-Movie/FlashCard.mov)<br />
-<br />
+![image of form page](https://media.giphy.com/media/fx6JolnfTkfcX77Mme/giphy.gif)<br />  
+<br />  
 
 To run the app, clone it into your command line, and then enter `index node.js`. You will see a welcome message and the first question with a group of possible answers. Enter the number for your answer and press the enter key. The app will let you know if you got the correct answer, and then supply the next question until you have run through the entire deck. You will then be told what percentage of the questions you answered correctly.
 
